@@ -6,3 +6,7 @@ Easiest way to test Google Cloud Messaging!
 Send GCM Notifications with this cross-platform Java app with a single click!
 
 Fastest & Easiest way to test GCM clients without any server-side requirements. 
+
+You can open this project with NetBeans IDE.
+
+If you want to run the jar directly, please check the "dist" folder.
