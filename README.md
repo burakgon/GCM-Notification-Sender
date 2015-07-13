@@ -1,7 +1,7 @@
 # GCM-Notification-Sender
 Easiest way to test Google Cloud Messaging!
 
-![ScreenShot](http://s29.postimg.org/tz6249zh3/Screen_Shot_2015_07_13_at_02_47_08.png)
+![ScreenShot](http://s8.postimg.org/e64i1i0x1/Screen_Shot_2015_07_13_at_03_12_51.png)
 
 Send GCM Notifications with this cross-platform Java app with a single click!
 
