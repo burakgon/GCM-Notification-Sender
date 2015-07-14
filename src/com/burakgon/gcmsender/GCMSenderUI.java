@@ -212,7 +212,6 @@ public class GCMSenderUI extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void sendButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_sendButtonActionPerformed
-        // TODO add your handling code here:
          CloseableHttpClient httpClient = HttpClientBuilder.create().build(); //Use this instead
 
         try {
